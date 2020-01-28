@@ -1,0 +1,1 @@
+This project is about learning how to upload files from the command line to GitHub.
